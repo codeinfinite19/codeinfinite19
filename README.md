@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahed
+🎓 CSE Student | 💻 Aspiring Software Engineer | 🚀 Competitive Programmer
 
-<!--
-**codeinfinite19/codeinfinite19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: **Java Projects and Competitive Programming**
+- 🌱 I’m currently learning: **Data Structures, Algorithms, Android Development**
+- 💬 Ask me about: **C++, Java, Git, Problem Solving**
+- 📫 How to reach me: shahed.email@example.com
+- ⚡ Fun fact: I love solving puzzles & writing clean code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinfinite19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinfinite19&layout=compact&theme=radical)
