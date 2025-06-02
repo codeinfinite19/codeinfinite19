@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Shahed
 🎓 CSE Student | 💻 Aspiring Software Engineer | 🚀 Competitive Programmer
 
-- 🔭 I’m currently working on: **Java Projects and Competitive Programming**
-- 🌱 I’m currently learning: **Data Structures, Algorithms, Android Development**
-- 💬 Ask me about: **C++, Java, Git, Problem Solving**
-- 📫 How to reach me: shahed.email@example.com
+- 🔭 I’m currently working on: Java Projects and Competitive Programming
+- 🌱 I’m currently learning: Data Structures, Algorithms, Android Development
+- 💬 Ask me about: C++, Java, Git, Problem Solving
 - ⚡ Fun fact: I love solving puzzles & writing clean code
 
 ---
