@@ -5,7 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2FC6DB&width=435&lines=Learning+Java+%7C+Git+%7C+Android+Development;Love+Problem+Solving+on+Codeforces;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeinfinite19&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeinfinite19&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeinfinite19&layout=compact&theme=radical" />
+</p>
+
+
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeinfinite19&show_icons=true&theme=radical)
+
 
 ### 📫 Contact Me:
 - 📧 Email: shahedhassan571@gmail.com
@@ -13,6 +24,7 @@
 - 🌐 Portfolio: coming soon...
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinfinite19&layout=compact&theme=radical)
 
 ### 🛠️ Tools and Technologies:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -22,6 +34,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeinfinite19&theme=radical)
+
 
 ### 🔥 GitHub Stats:
 <p align="center">
