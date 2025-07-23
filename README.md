@@ -42,7 +42,7 @@
 ---
 
 ### 🎯 Goals for 2025
-- ✅ Secret 😉 (you can add more later)
+- ✅ Secret 😉
 
 ---
 
