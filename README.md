@@ -48,16 +48,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/codeinfinite19/your-project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeinfinite19&repo=your-project-1&theme=radical" />
-  </a>
-  <a href="https://github.com/codeinfinite19/your-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeinfinite19&repo=your-project-2&theme=radical" />
-  </a>
-</p>
 
 ---
 
@@ -76,20 +66,8 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeinfinite19/codeinfinite19/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeinfinite19/codeinfinite19/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/codeinfinite19/codeinfinite19/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/codeinfinite19/codeinfinite19/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-<p align="center">
-  <iframe src="https://codeinfinite19.github.io/snake-animation/index.html" width="100%" height="300px" frameborder="0"></iframe>
-</p>
-
-
-![GitHub Snake dark](https://github.com/codeinfinite19/codeinfinite19/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/codeinfinite19/codeinfinite19/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
